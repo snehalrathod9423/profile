@@ -1,5 +1,4 @@
-# profile
-<img src="https://www.123rf.com/photo_110277853_coding-and-development-icons-concept-banner-with-various-programming-languages-css-html-java-php.html" alt="coding" width="400" height="Desired Height">
+
 <h1 align="center">Hi 👋, I'm Snehal Rathod</h1>
 <h3 align="center">A passionate developer from India</h3>
 
